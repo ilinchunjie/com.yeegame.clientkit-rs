@@ -1,0 +1,20 @@
+{
+    "name": "com.yeegame.clientkit-rs",
+    "version": "0.1.0",
+    "displayName": "ClientKit",
+    "description": "",
+    "category": "Runtime",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "https://github.com/ilinchunjie/com.yeegame.clientkit-rs/blob/main/LICENSE",
+    "keywords": [
+      "Rust",
+      "ClientKit",
+      "yeegame"
+    ],
+    "author": {
+      "name": "yeegame",
+      "email": "",
+      "url": "https://github.com/ilinchunjie"
+    }
+  }
