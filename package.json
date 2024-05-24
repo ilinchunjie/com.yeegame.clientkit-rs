@@ -1,6 +1,6 @@
 {
     "name": "com.yeegame.clientkit-rs",
-    "version": "0.1.0",
+    "version": "0.1.13",
     "displayName": "ClientKit",
     "description": "",
     "category": "Runtime",
